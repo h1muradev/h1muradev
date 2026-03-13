@@ -1,92 +1,92 @@
-<div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&text=Matheus%20Soares%20Borges&fontSize=40&fontAlignY=38&desc=Front-end%20Developer%20%7C%20UI%2FUX%20%7C%20Software%20Engineering%20Student&descAlignY=58&animation=fadeIn" alt="Header" />
-</div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=header&color=0:0f0c29,50:302b63,100:24243e" />
 
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3200&pause=900&color=A277FF&center=true&vCenter=true&width=900&lines=Building+clean%2C+intuitive+and+performatic+web+experiences;Focused+on+JavaScript%2C+Design+Systems+and+Software+Architecture;Turning+theory+into+real+projects%2C+one+interface+at+a+time" alt="Typing SVG" />
-  </a>
-</div>
+<h1 align="center">Olá, eu sou o Matheus Soares Borges 👋</h1>
+<h3 align="center">Front-end Developer em formação • UI/UX • Engenharia de Software</h3>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=h1mura&style=for-the-badge&color=8A2BE2" alt="Profile views" />
-  <img src="https://img.shields.io/badge/Status-Open%20to%20Collaboration-8A2BE2?style=for-the-badge" alt="Open to Collaboration" />
-  <img src="https://img.shields.io/badge/Location-Bras%C3%ADlia%20DF%20%2F%20Valpara%C3%ADso%20GO-111827?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=8A2BE2&center=true&vCenter=true&width=900&lines=Transformando+ideias+em+interfaces+modernas+e+intuitivas.;Estudante+de+Engenharia+de+Software.;Focado+em+HTML%2C+CSS%2C+JavaScript%2C+React+e+Tailwind.;Design%2C+c%C3%B3digo+e+evolu%C3%A7%C3%A3o+cont%C3%ADnua." alt="Typing SVG" />
+</p>
 
----
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=h1mura&style=for-the-badge&color=8A2BE2" alt="Contador de visualizações" />
+  <img src="https://img.shields.io/github/followers/h1mura?style=for-the-badge&color=8A2BE2&labelColor=1f1f1f" alt="Seguidores no GitHub" />
+</p>
 
-## 🌌 About Me
-
-I'm **Matheus Soares Borges**, also known as **h1mura**.
-
-I'm a Software Engineering student focused on building web experiences that feel **clean, intuitive, and performant**. My current journey is centered on strengthening my autonomy in **JavaScript**, improving my understanding of **Design Systems**, and growing into better **Software Architecture** decisions.
-
-- 🎓 5th semester of **Software Engineering**
-- 💡 Interested in **Front-end Development**, **UI/UX**, and product thinking
-- 🧠 Currently sharpening my skills in **Vanilla JavaScript**, interface structure, and code organization
-- 🚀 Looking for opportunities to collaborate, learn fast, and ship better digital experiences
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212750999-42ff8a64-dad8-4772-9648-849968543991.gif" width="420" alt="Pessoa codando em um ambiente aesthetic" />
+</p>
 
 ---
 
-## 🎯 Current Focus
+## ✨ Sobre mim
 
-```text
-• Build solid JavaScript fundamentals
-• Create cleaner and more reusable interfaces
-• Evolve from “making it work” to “making it scalable”
-• Combine visual design with good development practices
-```
+Sou estudante de **Engenharia de Software** e venho construindo minha jornada como desenvolvedor com foco em **interfaces modernas, experiências intuitivas e código bem organizado**.
+
+Tenho grande interesse em unir **design + desenvolvimento**, transformando ideias em projetos visuais, funcionais e cada vez mais profissionais.
+
+### Atualmente focado em:
+- desenvolvimento **front-end** com boas práticas
+- evolução em **JavaScript** e **React**
+- construção de interfaces com **Tailwind CSS**
+- versionamento profissional com **Git e GitHub**
+- prototipação e design de interfaces no **Figma**
 
 ---
 
-## 🛠️ Tech Stack
+## 🚀 Tecnologias e ferramentas
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,git,github,figma,vscode&theme=dark" alt="Tecnologias" />
+</p>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode,figma&theme=dark" alt="Tech stack" />
-</div>
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Markup-HTML5-111827?style=flat-square&logo=html5&logoColor=E34F26" alt="HTML5" />
-  <img src="https://img.shields.io/badge/Style-CSS3-111827?style=flat-square&logo=css&logoColor=1572B6" alt="CSS3" />
-  <img src="https://img.shields.io/badge/Logic-JavaScript-111827?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Version%20Control-Git-111827?style=flat-square&logo=git&logoColor=F05032" alt="Git" />
-  <img src="https://img.shields.io/badge/Design-Figma-111827?style=flat-square&logo=figma&logoColor=F24E1E" alt="Figma" />
+| Categoria | Tecnologias |
+| :---: | --- |
+| **Front-end** | HTML, CSS, JavaScript, React, Tailwind CSS |
+| **Versionamento** | Git, GitHub |
+| **Design & Produtividade** | Figma, VS Code |
+
 </div>
 
 ---
 
-## 📈 GitHub Snapshot
+## 📚 O que você vai encontrar por aqui
 
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=h1mura&show_icons=true&theme=midnight-purple&hide_border=true&rank_icon=github" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=h1mura&layout=compact&theme=midnight-purple&hide_border=true" alt="Top languages" />
-</div>
-
----
-
-## 🧭 What I Care About
-
-- **Readable code** before clever code
-- **User experience** before visual excess
-- **Consistency** in interfaces and components
-- **Continuous evolution** through study and practice
+- projetos de **interfaces web responsivas**
+- estudos e experimentos com **JavaScript** e **React**
+- layouts e protótipos com foco em **UI/UX**
+- evolução prática em **arquitetura front-end** e organização de código
+- repositórios que mostram meu crescimento como desenvolvedor
 
 ---
 
-## 🐍 Contribution Animation
+## 📈 GitHub Stats
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/h1mura/h1mura/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/h1mura/h1mura/output/github-contribution-grid-snake.svg" />
-  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/h1mura/h1mura/output/github-contribution-grid-snake.svg" />
-</picture>
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=h1mura&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=h1mura&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br" alt="Top Langs" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=h1mura&theme=tokyonight&hide_border=true&locale=pt_BR" alt="GitHub Streak" />
+</p>
 
 ---
 
-## 📩 Let's Connect
+## 🎯 Objetivos atuais
 
-<div align="center">
+- fortalecer minha base em **desenvolvimento front-end**
+- criar projetos com aparência mais **profissional e moderna**
+- evoluir na construção de interfaces com **React + Tailwind**
+- melhorar cada vez mais meu **portfólio** e minha presença no GitHub
+- unir **design, usabilidade e código** em projetos reais
+
+---
+
+## 📩 Vamos nos conectar
+
+<p align="center">
   <a href="https://www.linkedin.com/in/h1mura/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
@@ -94,10 +94,16 @@ I'm a Software Engineering student focused on building web experiences that feel
   <a href="mailto:h1muradev@hotmail.com">
     <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Outlook" />
   </a>
-</div>
+  &nbsp;
+  <a href="https://github.com/h1mura" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
 
 ---
 
-<div align="center">
-  <sub><i>"Keep coding… the night is quiet and full of possibilities."</i></sub>
-</div>
+<p align="center">
+  <i>"Cada projeto é uma oportunidade de evoluir, refinar detalhes e construir algo melhor que ontem."</i>
+</p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:24243e,50:302b63,100:0f0c29" />
