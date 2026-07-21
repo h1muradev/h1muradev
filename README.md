@@ -1,25 +1,29 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&section=header&color=0:0f172a,50:1e3a8a,100:2563eb" alt="Cabeçalho do perfil" />
+
 <div align="center">
 
 # h1mura
 
-### Estudante de Engenharia de Software | Desenvolvimento de Sistemas e Dados
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=21&duration=2600&pause=800&color=3B82F6&center=true&vCenter=true&width=760&lines=Estudante+de+Engenharia+de+Software;Desenvolvimento+de+Sistemas+e+Dados;SQL%2C+Oracle%2C+PL%2FSQL+e+APEX;Aprendendo%2C+construindo+e+evoluindo" alt="Apresentação profissional animada" />
 
-Construindo uma base sólida em desenvolvimento, banco de dados e soluções para problemas reais.
+<br />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/h1mura/)
-[![E-mail](https://img.shields.io/badge/E--mail-334155?style=flat&logo=microsoft-outlook&logoColor=white)](mailto:h1muradev@hotmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/h1mura/)
+[![E-mail](https://img.shields.io/badge/E--mail-334155?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:h1muradev@hotmail.com)
 
 </div>
 
----
-
 ## Sobre mim
 
-Sou estudante do **6º semestre de Engenharia de Software** e atuo como estagiário em um ambiente corporativo contábil. Essa experiência ampliou meu interesse por sistemas que organizam informações, automatizam processos e apoiam decisões.
+Sou estudante do **6º semestre de Engenharia de Software**, interessado em transformar problemas reais em sistemas organizados, funcionais e fáceis de utilizar.
 
-Minha formação está direcionada ao desenvolvimento de aplicações web e à área de dados. Busco evoluir com projetos práticos, documentação clara e domínio dos fundamentos por trás de cada solução.
+Já atuei em um escritório contábil, onde tive contato com rotinas empresariais, organização de informações e necessidades reais de negócio. Essa experiência fortaleceu meu interesse por sistemas corporativos, automação de processos, bancos de dados e painéis gerenciais.
 
-Atualmente, concentro meus estudos em **modelagem de dados, SQL, Oracle Database, PL/SQL e Oracle APEX**, além de continuar desenvolvendo minha base em front-end e back-end.
+Atualmente, estou reorganizando meu portfólio e aprofundando meus conhecimentos em **modelagem de dados, SQL, Oracle Database, PL/SQL e Oracle APEX**, sem deixar de evoluir no desenvolvimento front-end e back-end.
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212750999-42ff8a64-dad8-4772-9648-849968543991.gif" width="360" alt="Animação de desenvolvimento de software" />
+</p>
 
 ## Áreas de interesse
 
@@ -30,20 +34,11 @@ Atualmente, concentro meus estudos em **modelagem de dados, SQL, Oracle Database
 - Interfaces responsivas e acessíveis
 - Automação e melhoria de processos
 
-## Conhecimentos
+## Tecnologias e ferramentas
 
 <div align="center">
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-1E293B?style=flat-square&logo=javascript&logoColor=F7DF1E)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vuedotjs&logoColor=4FC08D)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-1E293B?style=flat-square&logo=figma&logoColor=white)
+<img src="https://skillicons.dev/icons?i=html,css,js,php,react,vue,mysql,git,github,figma,vscode&theme=dark" alt="Tecnologias e ferramentas" />
 
 </div>
 
@@ -53,19 +48,19 @@ Atualmente, concentro meus estudos em **modelagem de dados, SQL, Oracle Database
 | --- | --- |
 | **Banco de dados** | Modelagem relacional, normalização, SQL e integridade dos dados |
 | **Ecossistema Oracle** | Oracle Database, PL/SQL e Oracle APEX |
-| **Back-end** | APIs, autenticação, validação e organização de regras de negócio |
+| **Back-end** | APIs, autenticação, validação e regras de negócio |
 | **Qualidade** | Git, documentação técnica, testes e código legível |
 
 ## Como desenvolvo
 
 Procuro entender o problema antes de escolher a tecnologia. Organizo cada projeto com escopo claro, pequenas entregas e documentação suficiente para que outra pessoa consiga compreender as decisões tomadas.
 
-Meu objetivo é construir soluções funcionais e saber explicar tanto o código quanto a lógica, a estrutura dos dados e as escolhas realizadas durante o desenvolvimento.
-
----
+Meu objetivo é construir soluções funcionais e saber explicar o código, a lógica, a estrutura dos dados e as escolhas realizadas durante o desenvolvimento.
 
 <div align="center">
 
-**Aberto a oportunidades de estágio em desenvolvimento de software e dados.**
+### Aberto a oportunidades de estágio em desenvolvimento de software e dados
 
 </div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=90&section=footer&color=0:2563eb,50:1e3a8a,100:0f172a" alt="Rodapé do perfil" />
