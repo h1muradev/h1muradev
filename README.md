@@ -2,62 +2,70 @@
 
 # h1mura
 
-**Engenharia de Software • Desenvolvimento de Sistemas • Dados**
+### Estudante de Engenharia de Software | Desenvolvimento de Sistemas e Dados
 
-Construindo aplicações que transformam regras de negócio em soluções claras, organizadas e úteis.
+Construindo uma base sólida em desenvolvimento, banco de dados e soluções para problemas reais.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/h1mura/)
+[![E-mail](https://img.shields.io/badge/E--mail-334155?style=flat&logo=microsoft-outlook&logoColor=white)](mailto:h1muradev@hotmail.com)
 
 </div>
 
+---
+
 ## Sobre mim
 
-Sou estudante do **6º semestre de Engenharia de Software** e atualmente atuo em um escritório contábil, experiência que me aproximou de processos empresariais, organização de informações e necessidades reais de negócio.
+Sou estudante do **6º semestre de Engenharia de Software** e atuo como estagiário em um ambiente corporativo contábil. Essa experiência ampliou meu interesse por sistemas que organizam informações, automatizam processos e apoiam decisões.
 
-Minha formação combina **desenvolvimento web**, **modelagem de dados** e **construção de sistemas**. No momento, estou aprofundando meus conhecimentos em **SQL, Oracle Database, PL/SQL e Oracle APEX**, com interesse especial em aplicações corporativas e painéis gerenciais.
+Minha formação está direcionada ao desenvolvimento de aplicações web e à área de dados. Busco evoluir com projetos práticos, documentação clara e domínio dos fundamentos por trás de cada solução.
 
-## Foco atual
+Atualmente, concentro meus estudos em **modelagem de dados, SQL, Oracle Database, PL/SQL e Oracle APEX**, além de continuar desenvolvendo minha base em front-end e back-end.
 
-- Desenvolvimento de sistemas web e APIs
-- Modelagem e organização de bancos de dados relacionais
-- Consultas SQL, regras de negócio e automação de processos
-- Interfaces acessíveis, responsivas e fáceis de utilizar
-- Git, documentação técnica e evolução contínua dos projetos
+## Áreas de interesse
 
-## Tecnologias
+- Desenvolvimento de sistemas corporativos
+- Modelagem e bancos de dados relacionais
+- APIs e regras de negócio
+- Painéis gerenciais e visualização de informações
+- Interfaces responsivas e acessíveis
+- Automação e melhoria de processos
 
-| Área | Tecnologias |
+## Conhecimentos
+
+<div align="center">
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-1E293B?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vuedotjs&logoColor=4FC08D)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-1E293B?style=flat-square&logo=figma&logoColor=white)
+
+</div>
+
+## Em aprofundamento
+
+| Área | Conteúdos |
 | --- | --- |
-| **Front-end** | HTML, CSS, JavaScript, TypeScript, React, Next.js, Tailwind CSS |
-| **Back-end** | Node.js, PHP, Laravel, APIs REST |
-| **Dados** | SQL, PostgreSQL, MySQL, Prisma |
-| **Em aprofundamento** | Oracle Database, PL/SQL, Oracle APEX |
-| **Ferramentas** | Git, GitHub, Docker, Figma, VS Code |
+| **Banco de dados** | Modelagem relacional, normalização, SQL e integridade dos dados |
+| **Ecossistema Oracle** | Oracle Database, PL/SQL e Oracle APEX |
+| **Back-end** | APIs, autenticação, validação e organização de regras de negócio |
+| **Qualidade** | Git, documentação técnica, testes e código legível |
 
-## Projetos em destaque
+## Como desenvolvo
 
-### [Compliance Hub](https://github.com/h1muradev/Exel---Controle-de-empresa)
+Procuro entender o problema antes de escolher a tecnologia. Organizo cada projeto com escopo claro, pequenas entregas e documentação suficiente para que outra pessoa consiga compreender as decisões tomadas.
 
-Intranet para gestão de cadastros empresariais, permissões e auditoria. Desenvolvida com **Next.js, TypeScript, Prisma e PostgreSQL**, com atenção a controle de acesso e proteção de dados.
+Meu objetivo é construir soluções funcionais e saber explicar tanto o código quanto a lógica, a estrutura dos dados e as escolhas realizadas durante o desenvolvimento.
 
-### [cardp.io](https://github.com/h1muradev/cardp.io)
+---
 
-Plataforma de cardápio digital em evolução, com área administrativa e menu público. O projeto utiliza **PHP, Laravel, Blade, JavaScript e Tailwind CSS**.
+<div align="center">
 
-### [LegacyRank](https://github.com/h1muradev/LegacyRank)
+**Aberto a oportunidades de estágio em desenvolvimento de software e dados.**
 
-Sistema de estatísticas para partidas, integrando **bot para Discord, API Fastify, Prisma e PostgreSQL**. Inclui cadastro de jogadores, ranking e leaderboard.
-
-### [Vital & Marques](https://github.com/h1muradev/vitalemarques-site)
-
-Site institucional desenvolvido para uma empresa real, com foco em **acessibilidade, responsividade, desempenho, SEO e conversão** utilizando HTML, CSS e JavaScript.
-
-## Objetivos atuais
-
-- Consolidar minha base em banco de dados e desenvolvimento back-end
-- Criar soluções completas, da modelagem à interface
-- Evoluir em Oracle, PL/SQL e Oracle APEX
-- Documentar projetos de forma simples, técnica e transparente
-
-## Contato
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/h1mura/)
-[![E-mail](https://img.shields.io/badge/E--mail-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white)](mailto:h1muradev@hotmail.com)
+</div>
